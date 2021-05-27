@@ -9,7 +9,7 @@ EE110.py Condensador parcial
 
 EE120.py Calentador de ácido
 
-EF100.py Tanque de ácido
+EF100.py Tanque de ácidos
 
 EH100.py Centrifuga
 
